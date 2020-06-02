@@ -1,0 +1,9 @@
+C:\Users\serga\Desktop\Unity_Intensive-master\Ping_Pong\bin\Debug\Ping_Pong.exe.config
+C:\Users\serga\Desktop\Unity_Intensive-master\Ping_Pong\bin\Debug\Ping_Pong.exe
+C:\Users\serga\Desktop\Unity_Intensive-master\Ping_Pong\bin\Debug\Ping_Pong.pdb
+C:\Users\serga\Desktop\Unity_Intensive-master\Ping_Pong\obj\Debug\Ping_Pong.csprojAssemblyReference.cache
+C:\Users\serga\Desktop\Unity_Intensive-master\Ping_Pong\obj\Debug\Ping_Pong.Form1.resources
+C:\Users\serga\Desktop\Unity_Intensive-master\Ping_Pong\obj\Debug\Ping_Pong.Properties.Resources.resources
+C:\Users\serga\Desktop\Unity_Intensive-master\Ping_Pong\obj\Debug\Ping_Pong.csproj.GenerateResource.cache
+C:\Users\serga\Desktop\Unity_Intensive-master\Ping_Pong\obj\Debug\Ping_Pong.exe
+C:\Users\serga\Desktop\Unity_Intensive-master\Ping_Pong\obj\Debug\Ping_Pong.pdb
